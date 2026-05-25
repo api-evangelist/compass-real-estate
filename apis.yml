@@ -1,0 +1,98 @@
+aid: compass-real-estate
+name: Compass
+description: >-
+  Compass is a New York City headquartered, tech-enabled residential real
+  estate brokerage founded in 2012 by Robert Reffkin and Ori Allon. The
+  company operates the largest residential real estate brokerage in the
+  United States by sales volume, supporting roughly 36,890 agents and
+  $267 billion in gross transaction value across approximately 250,360
+  transactions in fiscal year 2025, on $6.96 billion in revenue. Compass
+  builds and operates a proprietary, end-to-end agent platform — an
+  integrated cloud-based suite spanning CRM, marketing center, transaction
+  management, listings, market analytics, the Compass One client
+  dashboard, Compass Lens, AI-powered comparative market analysis,
+  AI-generated video, virtual agent services, and a voice-activated AI
+  assistant — custom-built for residential brokerage workflows. The
+  company has invested over $100 million per year in technology and runs
+  a 500+ person Product and Engineering organization, with engineering
+  hubs that have included Seattle. Compass completed its merger with
+  Anywhere Real Estate on January 9, 2026, combining two of the largest
+  residential brokerage operators in the United States. The Compass
+  platform is internal-facing: it is offered as the operating system for
+  Compass agents and their clients, not as a developer product. There is
+  no public REST API, OpenAPI specification, SDK, or third-party
+  developer portal for the Compass real estate platform; the company's
+  GitHub presence at github.com/urbancompass publishes a handful of
+  internal-tooling open source projects (e.g. Snail, Mussel, hnvm,
+  bazel-toolchain) rather than product APIs.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Real Estate
+  - Residential Real Estate
+  - Brokerage
+  - PropTech
+  - Real Estate Platform
+  - Agent Platform
+  - CRM
+  - Listings
+  - Compass One
+  - Compass AI
+  - Compass Lens
+  - Artificial Intelligence
+  - New York
+url: https://raw.githubusercontent.com/api-evangelist/compass-real-estate/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.compass.com
+  - type: About
+    url: https://www.compass.com/about/
+  - type: Agents
+    url: https://www.compass.com/agents-compass/
+  - type: CompassOne
+    url: https://www.compass.com/compass-one/
+  - type: Concierge
+    url: https://www.compass.com/concierge/
+  - type: PrivateExclusives
+    url: https://www.compass.com/private-exclusives/
+  - type: Luxury
+    url: https://www.compass.com/luxury/
+  - type: Commercial
+    url: https://www.compass.com/commercial/
+  - type: NewDevelopment
+    url: https://www.compass.com/new-development/
+  - type: Newsroom
+    url: https://www.compass.com/newsroom/
+  - type: PressReleases
+    url: https://www.compass.com/newsroom/press-releases/
+  - type: InvestorRelations
+    url: https://investors.compass.com/
+  - type: SECFilings
+    url: https://investors.compass.com/financials/sec-filings/default.aspx
+  - type: Careers
+    url: https://www.compass.com/careers/
+  - type: Engineering
+    url: https://www.compass.com/careers/departments/engineering
+  - type: Academy
+    url: https://openacademy.compass.com/
+  - type: Offices
+    url: https://www.compass.com/about/offices/
+  - type: GitHub
+    url: https://github.com/urbancompass
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/compass-inc-
+  - type: Twitter
+    url: https://twitter.com/compass
+  - type: Instagram
+    url: https://www.instagram.com/compass/
+  - type: YouTube
+    url: https://www.youtube.com/@compassrealestate
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
