@@ -49,6 +49,10 @@ modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/compass-real-estate-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/compass-real-estate-domain-security.yml
   - type: Website
     url: https://www.compass.com
   - type: About
@@ -71,6 +75,8 @@ common:
     url: https://www.compass.com/newsroom/
   - type: PressReleases
     url: https://www.compass.com/newsroom/press-releases/
+  - type: Blog
+    url: https://www.compass.com/newsroom/
   - type: InvestorRelations
     url: https://investors.compass.com/
   - type: SECFilings
