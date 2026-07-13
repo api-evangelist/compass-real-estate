@@ -1,0 +1,21 @@
+{
+  "repo": "compass-real-estate",
+  "feeds": [
+    {
+      "source": "https://www.compass.com/newsroom/",
+      "feed_url": "https://www.compass.com/newsroom/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.compass.com/newsroom/press-releases/",
+      "feed_url": "https://www.compass.com/newsroom/press-releases/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 6
+}
